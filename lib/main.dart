@@ -47,7 +47,7 @@ class MyApp extends StatelessWidget {
                 primarySwatch: Colors.deepOrange,
                 bottomNavigationBarTheme: BottomNavigationBarThemeData(
                   type: BottomNavigationBarType.fixed,
-                  selectedItemColor: Colors.deepOrangeAccent,
+                  selectedItemColor: Colors.deepPurple,
                   backgroundColor: Colors.white,
                 ),
                 appBarTheme: AppBarTheme(
@@ -71,7 +71,7 @@ class MyApp extends StatelessWidget {
                 primarySwatch: Colors.deepOrange,
                 bottomNavigationBarTheme: BottomNavigationBarThemeData(
                   type: BottomNavigationBarType.fixed,
-                  selectedItemColor: Colors.deepOrangeAccent,
+                  selectedItemColor: Colors.tealAccent,
                   backgroundColor: HexColor('#3d3d3d'),
                   unselectedItemColor: Colors.white70,
                 ),
